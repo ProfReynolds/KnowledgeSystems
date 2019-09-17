@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Knowledge.Demonstrator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PreviousImagePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SubscriptionKey1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3840522b396e4b9da09cf765b34ba35e</Value>
+    </Setting>
+    <Setting Name="SubscriptionKey2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">025681452da1432783fa829e915ff41e</Value>
+    </Setting>
+    <Setting Name="UriBase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://southcentralus.api.cognitive.microsoft.com</Value>
+    </Setting>
+    <Setting Name="EndPoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://computervisiondemonstrator.cognitiveservices.azure.com/</Value>
+    </Setting>
+    <Setting Name="EndPointKey1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">d114415a76b9474393f84862a456bcb1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
