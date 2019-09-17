@@ -11,6 +11,7 @@ Overview: Azure Machine Learning is a cloud predictive analytics service that ma
 ## Machine Learning for the Developer – Part 2
 
 Slides: Machine Learning for the Developer.pptx (in the slides folder)
+
 Source Code: in the src folder
 
 Application of the Microsoft Toolkits, SDKs, and APIs will be surveyed and demonstrated in VS 2019. Particular attention will be given to Azure Cognitive Services, ML.NET, and Microsoft Cognitive Toolkit. How-to examples will include for Classification, Clustering, Regression, Neural Nets, and Vision.
